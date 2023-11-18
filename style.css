@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav{
+    
+    /* border: 2px solid red; */
+    max-width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    display: flex;
+    height: 3rem;
+    justify-content: center;
+    align-items: center;
+background-color: black;
+color: white;
+border-radius: 4rem;
+}
+ul{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
+li{
+    
+    /* border: 2px solid yellow; */
+}
